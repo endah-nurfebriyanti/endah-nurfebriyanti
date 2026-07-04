@@ -149,7 +149,7 @@ I also have experience in scientific research, academic writing, and presenting 
 www.linkedin.com/in/endah-nurfebriyanti-5b8200134
 
 🌐 Portfolio:
-*(Coming Soon)*
+https://endah-nurfebriyanti.github.io/
 
 ---
 
