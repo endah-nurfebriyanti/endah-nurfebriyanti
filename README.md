@@ -1,85 +1,152 @@
-## Hi there, I'm Endah 👋
+# 👋 Hi there, I'm Endah Nurfebriyanti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Intelligence+Analyst;Statistics+%26+Data+Visualization;Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=750&lines=Mathematician+%7C+Data+Analyst+%7C+Researcher;Applied+Statistics+%26+Decision+Support+Systems;Data+Visualization+%7C+Operations+Research;Python+%7C+Excel+%7C+Looker+Studio+%7C+SPSS" />
+
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/endah-nurfebriyanti-5b8200134/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
-  </a>
+<a href="https://www.linkedin.com/in/endah-nurfebriyanti-5b8200134">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:endahnurfebriyanti@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
+
+---
 
 # 🚀 About Me
 
-I'm **Endah Nurfebriyanti**, a Data Analyst with a Master's degree in Mathematics and a strong background in statistics, quantitative research, and business intelligence.
+I'm **Endah Nurfebriyanti, S.Mat., M.Si.**, a Mathematics graduate specializing in **Applied Statistics, Data Analytics, and Multi-Criteria Decision Making (MCDM)**.
 
-I enjoy transforming raw data into meaningful insights that support better decision-making. My experience includes data cleaning, statistical analysis, dashboard development, and predictive analytics using modern analytical tools.
+My academic and professional journey combines quantitative research, data analysis, and mathematics education. I enjoy transforming complex datasets into meaningful insights through statistical analysis, dashboard visualization, and decision-support models.
 
-I have worked with various datasets from education, healthcare, and business domains, creating interactive dashboards and data-driven reports that help organizations understand their performance and identify opportunities for improvement.
+My research interests include:
 
-Outside of analytics, I enjoy learning new technologies, conducting research, and building portfolio projects that combine data storytelling with impactful visualization.
+- 📊 Applied Statistics
+- 📈 Data Analytics
+- 🎯 Multi-Criteria Decision Making (MCDM)
+- 🤖 Operations Research
+- 📉 Data Visualization
+- 🎓 Mathematics Education Analytics
 
-🌐 **Portfolio Website:**  
-https://yourusername.github.io/
+I also have experience in scientific research, academic writing, and presenting research at international conferences.
 
 ---
 
 # 🔭 Current Focus
 
-- 📊 Building end-to-end Data Analytics portfolio projects
-- 📈 Developing interactive dashboards using Power BI & Looker Studio
-- 🤖 Exploring Machine Learning for predictive analytics
-- 📚 Conducting research in AI-assisted education and learning analytics
+- 📊 Building Data Analytics Portfolio Projects
+- 📈 Developing Interactive Dashboards using Looker Studio
+- 🧠 Exploring Decision Support Systems (MCDM)
+- 📚 Publishing International Research Articles
+- 🎓 Preparing for Ph.D. in Mathematics
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced SQL for Data Analytics
-- Machine Learning with Python
-- Google BigQuery
-- Data Engineering Fundamentals
-- Advanced Power BI & DAX
+- Python for Data Analytics
+- SQL
+- Power BI
+- Machine Learning Fundamentals
+- Advanced Dashboard Development
+- Decision Intelligence
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠 Technical Skills
 
-## 📊 Data Analytics & Visualization
+## 📊 Data Analytics
 
 <p>
+
 <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Looker%20Studio-Advanced-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SPSS-Advanced-052FAD?style=flat"/>
+
+<img src="https://img.shields.io/badge/Google%20Looker%20Studio-Intermediate-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+
 </p>
+
+---
 
 ## 💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=flat&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/R-Basic-276DC3?style=flat&logo=r&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
 </p>
 
-## 📈 Statistics & Business Intelligence
+---
+
+## 📈 Mathematics & Research
 
 <p>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-00B8D9?style=flat"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-Advanced-FF9800?style=flat"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-4CAF50?style=flat"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-Advanced-7B1FA2?style=flat"/>
-<img src="https://img.shields.io/badge/Research%20Analytics-Advanced-3F51B5?style=flat"/>
+
+<img src="https://img.shields.io/badge/Applied%20Statistics-Advanced-blue"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-Advanced-green"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-Advanced-orange"/>
+
+<img src="https://img.shields.io/badge/MCDM-Advanced-purple"/>
+
+<img src="https://img.shields.io/badge/Operations%20Research-Advanced-red"/>
+
+<img src="https://img.shields.io/badge/Scientific%20Research-Advanced-8E44AD"/>
+
 </p>
 
-## 📚 Other Tools
+---
 
-<p>
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-Advanced-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-Advanced-4285F4?style=flat&logo=google&logoColor=white"/>
-</p>
+## 🎓 Teaching & Academic
+
+- Mathematics Education
+- Academic Research
+- Scientific Writing
+- Curriculum Development
+- Public Speaking
+- Mentoring Students
+
+---
+
+# 📚 Featured Research
+
+📄 **Min–Max Fuzzy TOPSIS with Entropy Weighting for Strategic Location Multicriteria Decision Making** (2025)
+
+📄 **Analysis of Factors Influencing Drug Abuse Cases using Geographically Weighted Regression (GWR) in Indonesia** (2022)
+
+---
+
+# 🏆 Certifications
+
+- 🎤 Presenter — International Conference on Frontiers in Operations Research and Applied Mathematics (FORAM 2025)
+- 📊 Data Visualization with Looker Studio — MySkill
+- 📖 Systematic Literature Review & AI for Scopus Publication
+- 🇺🇸 TOEFL ITP Score: **540**
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** endahnurfebriyanti@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/endah-nurfebriyanti-5b8200134
+
+🌐 Portfolio:
+*(Coming Soon)*
+
+---
+
+> *"Turning mathematical thinking into data-driven solutions."*
