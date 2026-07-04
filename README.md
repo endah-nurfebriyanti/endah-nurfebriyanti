@@ -122,7 +122,11 @@ I also have experience in scientific research, academic writing, and presenting 
 
 # 📚 Featured Research
 
-📄 **[Min–Max Fuzzy TOPSIS with Entropy Weighting for Strategic Location Multicriteria Decision Making (2025)](https://jurnal.uinsu.ac.id/index.php/zero/article/viewFile/26749/11457)**
+### 📄 Min–Max Fuzzy TOPSIS with Entropy Weighting for Strategic Location Multicriteria Decision Making (2025)
+
+[![📄 Read Paper](https://img.shields.io/badge/Read-Paper-blue?style=for-the-badge)](https://jurnal.uinsu.ac.id/index.php/zero/article/viewFile/26749/11457)
+
+[![⬇ Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://jurnal.uinsu.ac.id/index.php/zero/article/viewFile/26749/11457)
 
 📄 **Analysis of Factors Influencing Drug Abuse Cases using Geographically Weighted Regression (GWR) in Indonesia** (2022)
 
