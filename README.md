@@ -132,12 +132,17 @@ I also have experience in scientific research, academic writing, and presenting 
 [![📄 Read Paper](https://img.shields.io/badge/Read-Paper-blue?style=for-the-badge)](https://jurnal.uinsu.ac.id/index.php/zero/article/view/14917) [![⬇ Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://jurnal.uinsu.ac.id/index.php/zero/article/viewFile/14917/6500)
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
 
-- 🎤 Presenter — International Conference on Frontiers in Operations Research and Applied Mathematics (FORAM 2025)
-- 📊 Data Visualization with Looker Studio — MySkill
-- 📖 Systematic Literature Review & AI for Scopus Publication
-- 🇺🇸 TOEFL ITP Score: **540**
+[![FORAM 2025](https://img.shields.io/badge/FORAM-2025-blue?style=flat-square)](certificates/FORAM-2025-Presenter.pdf)
+[![MySkill](https://img.shields.io/badge/MySkill-Looker%20Studio-orange?style=flat-square)](certificates/Data-Visualization-Looker-Studio.pdf)
+[![Scopus Training](https://img.shields.io/badge/Scopus-SLR%20%26%20AI-success?style=flat-square)](certificates/Scopus-SLR-AI.pdf)
+[![TOEFL ITP](https://img.shields.io/badge/TOEFL_ITP-540-green?style=flat-square)](certificates/TOEFL-ITP-540.pdf)
+
+- 🎤 **Presenter** — International Conference on Frontiers in Operations Research and Applied Mathematics (FORAM 2025)
+- 📊 **Data Visualization with Looker Studio** — MySkill (2026)
+- 📚 **Scopus Journal Publication Training (SLR & AI)** (2026)
+- 📝 **TOEFL ITP** — Score: **540**
 
 ---
 
@@ -146,10 +151,10 @@ I also have experience in scientific research, academic writing, and presenting 
 📧 **Email:** endahnurfebriyanti@gmail.com
 
 💼 LinkedIn:
-www.linkedin.com/in/endah-nurfebriyanti-5b8200134
+www.linkedin.com/in/endahnurfebriyanti
 
 🌐 Portfolio:
-https://endah-nurfebriyanti.github.io/
+https://endah-nurfebriyanti.github.io
 
 ---
 
