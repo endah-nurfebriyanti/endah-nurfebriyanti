@@ -37,6 +37,14 @@ My research interests include:
 I also have experience in scientific research, academic writing, and presenting research at international conferences.
 
 ---
+## 💼 Professional Experience
+
+- 📊 **Data Analyst** — Educational Data Analysis, Dashboard Development, and Data Visualization
+- 📚 **Mathematics Tutor** — Tutoring for Elementary, Junior High, and Senior High School Students
+- 📝 **Tutor Assessor** — Tutor Recruitment, Academic Assessment, and Performance Evaluation
+- 🔬 **Applied Mathematics Researcher** — Decision Support Systems, Statistical Analysis, and Data Analytics
+
+---
 
 # 🔭 Current Focus
 
